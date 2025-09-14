@@ -1,4 +1,3 @@
-package o1o4;
 import java.math.BigInteger;
 import java.util.Scanner;
 
@@ -25,3 +24,4 @@ public class o3 {
         System.out.println(n + "! = " + resultat);
     }
 }
+
