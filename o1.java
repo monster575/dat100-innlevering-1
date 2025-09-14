@@ -1,4 +1,3 @@
-package o1o4;
 import java.util.Scanner;
 public class o1 {
     public static void main(String[] args) {
@@ -26,4 +25,5 @@ public class o1 {
         double grunnlag = Math.min(inntekt, ovre) - nedre + 0.0;
         return Math.max(grunnlag, 0.0);
     }
+
 }
