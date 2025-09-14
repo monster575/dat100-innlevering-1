@@ -1,4 +1,3 @@
-package o1o4;
 import java.util.Scanner;
 
 public class o2 {
@@ -36,3 +35,4 @@ public class o2 {
         return 'F';
     }
 }
+
